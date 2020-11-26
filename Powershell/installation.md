@@ -2,13 +2,12 @@
 
 Tout d'abord, il faut savoir que depuis Windows 7, PowerShell est nativement présent sur les systèmes Windows. Il y a donc pas besoin de l'installer ou d'effectuer des réglages spécifiques.
 
-Lien : https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1
+Lien : <https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1>
 
 Ce lien nous donne les commandes et ce qu'il faut télécharger pour réussir l'installation du Powershell sur Linux.
 
 ### Résoudre le problème avec l'installation
 
-J'ai eu un problème avec l'installation, il ne reconnaissait pas ce qu'on me demandait d'installer.
 
 Pour ce faire, il faut configurer les sources de APT.
 
