@@ -1,11 +1,11 @@
-# Sommaire de projet :
+# Sommaire :
 
 1. Le shell
     * PowerShell
-        * [Qu'est-ce que PowerShell ?](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/powershell.md)
-        * [Son histoire](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/histoire.md)
-        * [Son installation](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/installation.md)
-    * [Les différents shells UNIX](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/shell.md)
+        * [Qu'est-ce que PowerShell ?](https://github.com/NatSch45/linux/blob/master/Powershell/powershell.md)
+        * [Son histoire](https://github.com/NatSch45/linux/blob/master/Powershell/histoire.md)
+        * [Son installation](https://github.com/NatSch45/linux/blob/master/Powershell/installation.md)
+    * [Les différents shells UNIX](https://github.com/NatSch45/linux/blob/master/Powershell/shell.md)
 2. Les scripts
-    * [Les commandes](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/commandes.md)
-    * [Les variables](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/variables.md)
+    * [Les commandes](https://github.com/NatSch45/linux/blob/master/Powershell/commandes.md)
+    * [Les variables](https://github.com/NatSch45/linux/blob/master/Powershell/variables.md)
