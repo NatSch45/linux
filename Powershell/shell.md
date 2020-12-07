@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Les shells
 
 Un shell est un environnement console. Il en existe plusieurs, à la même manière des interfaces graphiques, et ils comportent quelques différences souvent non visibles mais présentes lors de l'écriture des commandes et scripts.  
