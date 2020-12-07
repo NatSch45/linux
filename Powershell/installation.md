@@ -13,7 +13,7 @@ Pour ce faire, il faut configurer les sources de APT.
 
 #### Configurer les sources APT:
 
-- Aller dans `\ > etc > apt`
+- Aller dans `\ > etc\ > apt`
 - Editer le fichier `sources.list` avec la commande `sudo nano sources.list`
 - (Si jamais une des erreurs est *"please insert the disc labeled"*) il faut enlever la ligne (ou la mettre en commentaire avec le `#`) `deb cdrom:[Debian GNU/Linux etc...`
 - Ajouter la ligne suivante `deb http://ftp.fr.debian.org/debian/ sid main`
