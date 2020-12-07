@@ -58,4 +58,4 @@ Dans ce cas, on crée un alias nommé *MonAlias* qui exécute la commande Get-he
 
 ![alias_help](./pictures/alias_help.PNG "Alias \"help\"")
 
-<a href="https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md"><input type="button" value="Retour au sommaire"></a>
+<button name="button" onclick="https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md">Test</button>

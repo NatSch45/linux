@@ -73,4 +73,4 @@ $variable = [int]0123 <=> [int]$variable = 0123
 
 source : *https://ss64.com/ps/syntax-datatypes.html*
 
-<a href="https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md"><input type="button" value="Retour au sommaire"></a>
+[Retour au sommaire](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md)
