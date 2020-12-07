@@ -15,3 +15,5 @@
 - 2012 : Depuis Windows 8, PowerShell dispose d'une place plus prononcée au sein du système d'exploitation avec un raccourci dans toutes les fenêtres de l'explorateur de fichiers, dans le menu Fichier
 
 *source: Wikipédia*
+
+[Retour au sommaire](https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md)
