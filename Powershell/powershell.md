@@ -16,4 +16,4 @@ Voici l'interface graphique PowerShell, notamment reconnaissable à sa couleur d
 
 Les commandes "sudo" en shell UNIX, permettant d'exécuter une commande en tant qu'administrateur système, peuvent ici être réglées en lançant simplement le logiciel en tant qu'administrateur.
 
-<a href="https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md"><input type="button" value="Retour au sommaire"></input></a>
+<a href="https://git.ytrack.learn.ynov.com/NSCHNEIDER/linux/src/branch/master/Powershell/README.md"><input type="button" value="Retour au sommaire"></a>
