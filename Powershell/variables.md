@@ -25,6 +25,16 @@
 - [array] : tableau de valeurs de n'importe quel type et à une ou plusieurs entrées
 - [hashtable] : objet hashtable 
 
+Il est possible de récupérer le type d'une variable à l'aide de la commande $MaVariable.**GetType()**.
+
+---
+
+Il faut savoir qu'une variable peut stocker la valeur retournée par une commande. Par exemple :  
+
+    > $ServiceState = Get-Service
+
+Dans ce cas, la variable "$ServiceState" stocke le résultat de la commande Get-Service.
+
 <br>
 
 ## Suffixes de multiplication :

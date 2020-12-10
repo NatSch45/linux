@@ -2,7 +2,7 @@
 
 Le préfixe de la commandelette (commande PowerShell) est appelé verbe bien qu'il n'en soit pas toujours un. Il est appelé ainsi car il détermine l'action à effectuer sur les entités désignédes dans la phrase. S'en suit d'un nom séparé par un tiret.
 
-## Liste des verbes : 
+## Liste des verbes
 
 1. **Add** : permet d'**ajouter** des données ou informations sur le nom qui le suit
 
@@ -14,13 +14,30 @@ Le préfixe de la commandelette (commande PowerShell) est appelé verbe bien qu'
 7. **Write** : permet d'écrire des données ou informations sur le nom qui le suit et peut agir comme le compte-rendu d'une commande
 
 <br>
+
+## Le Pipeline : **|**
+
+Le pipeline est un élément très important dans l'écriture des scipts shells, et donc PowerShell. Il permet la concaténation de plusieurs commandes écrites sur une même ligne. "Commande1 | Commande2", ici le résultat de la *Commande1* sera interprété par la *Commande2*.  
+Par exemple, on peut avoir :
+
+    > Get-Service | Where-Object{ $_.Status -eq "Running" }
+
+Ici, on récupère tous les services grâce à la première commande puis sur on filtre ces données de façon à ce qu'il reste que les services en cours d'exécution, à l'aide de la deuxième commande.
+
+<br>
 <br>
 
 # Les commandes à savoir
 
+Tout d'abord, il est bon de savoir que toutes les commandes et documentations sont disponibles sur la [doc officielle](https://docs.microsoft.com/fr-fr/powershell/) de Windows PowerShell.
+
 - **`Get-help NomDeLaCommande`** : Ici, la commande renvoie des informations sur comment utiliser la commande "NomDeLaCommande". Le flag **-examples** est très pratique car il permet d'afficher des exemples d'utilisation d'une commande et de ses flags.
 
 - **`Update-help`** : Permet de mettre à jour les fichiers *help* (d'aides) sur les modules PowerShell. Attention : il faut relancer le logiciel afin que les mises à jour soient correctement effectives.
+
+- **`Write-Output`** : Permet d'afficher dans le terminal la valeur stockée par une variable.
+
+- **`Import-Module`** : Permet, comme son nom l'indique, d'importer un module.
 
 - **`Get-Location`** : Renvoie le dossier dans lequel on se trouve.
 
@@ -57,5 +74,9 @@ Dans ce cas, on crée un alias nommé *MonAlias* qui exécute la commande Get-he
 `Set-Alias -Name MonAlias -Value LaCommande`  
 
 ![alias_help](./pictures/alias_help.PNG "Alias \"help\"")
+
+*Sources :  
+https://www.youtube.com/watch?v=Ecdl1pOMtmE  
+https://docs.microsoft.com/fr-fr/powershell/*
 
 [Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
