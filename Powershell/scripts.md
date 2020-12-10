@@ -15,4 +15,5 @@ Les fichiers de script PowerShell ont pour extension **.ps1**.
 
 ![ise_commente](./pictures/ise_commente.PNG)
 
-Il faut savoir qu'une documentation officielle plus complète est accessible via le raccourci clavier *F1* ou dans la barre de menus.
+Il faut savoir qu'une documentation officielle plus complète peut être consultée via la barre de menus (ou via [ce lien](https://docs.microsoft.com/fr-fr/powershell/scripting/windows-powershell/ise/exploring-the-windows-powershell-ise?view=powershell-7.1
+)).
