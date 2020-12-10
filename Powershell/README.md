@@ -1,4 +1,6 @@
-# Sommaire
+# Découverte des shells et de l'utilisation de PowerShell
+
+## **Sommaire**
 
 1. Le shell
     * PowerShell
