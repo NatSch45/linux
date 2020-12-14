@@ -12,3 +12,8 @@
     * [Les commandes](https://github.com/NatSch45/linux/blob/master/Powershell/commandes.md)
     * [Les variables](https://github.com/NatSch45/linux/blob/master/Powershell/variables.md)
     * [L'écriture des scripts](https://github.com/NatSch45/linux/blob/master/Powershell/scripts.md)
+3. [Les TPs](https://github.com/NatSch45/linux/blob/master/Powershell/tp.md)
+    * [TP1](https://github.com/NatSch45/linux/blob/master/Powershell/tp1.md)
+    * [TP2](https://github.com/NatSch45/linux/blob/master/Powershell/tp2.md)
+    * [TP3](https://github.com/NatSch45/linux/blob/master/Powershell/tp3.md)
+    * [TP5](https://github.com/NatSch45/linux/blob/master/Powershell/tp5.md)
