@@ -13,7 +13,7 @@
     * [Les variables](https://github.com/NatSch45/linux/blob/master/Powershell/pages/variables.md)
     * [Les conditions](https://github.com/NatSch45/linux/blob/master/Powershell/pages/condition.md)
     * [Les boucles](https://github.com/NatSch45/linux/blob/master/Powershell/pages/boucle.md)
-    * [L'écriture des scripts](https://github.com/NatSch45/linux/blob/master/Powershell/scripts.md)
+    * [L'écriture des scripts](https://github.com/NatSch45/linux/blob/master/Powershell/pages/scripts.md)
 3. [Les TPs](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp.md)
     * [TP1](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp1.md)
     * [TP2](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp2.md)
