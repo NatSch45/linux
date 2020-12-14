@@ -69,6 +69,8 @@ Il existe une autre fonction permettant de gérer des conditions et qui peut s'a
 
 ![switch](../pictures/switch.PNG "Switch()")
 
+Dans l'exemple ci-dessus, à la première exécution du code, la variable *$entier* vaut 5 puis 
+
 On peut apercevoir un cas spécial à la fin, le cas "Default". Comme son nom l'indique, c'est un cas par défaut dont le bloc de code s'exécutera lorsqu'aucune autre condition n'a été remplie.  
 Les cas s'enchaînent, c'est-à-dire qu'il est possible qu'une variable valide plusieurs conditions dans un même switch().  
 Cependant, il est possible d'arrêter le switch() après qu'une condition soit remplie en rajoutant au bloc de code "; Break".
