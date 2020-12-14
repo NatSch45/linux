@@ -1,6 +1,6 @@
 # TPs PowerShell
 
-## [1](https://github.com/NatSch45/linux/blob/master/Powershell/tp1.md) - Scripts de gestion des comptes utilisateurs
+## [1](https://github.com/NatSch45/linux/blob/master/Powershell/tps/tp1.md) - Scripts de gestion des comptes utilisateurs
 
 Faire un script de gestion des utilisateurs, qui doit permettre : 
 
@@ -12,7 +12,7 @@ Faire un script de gestion des utilisateurs, qui doit permettre :
 
 ---
 
-## [2](https://github.com/NatSch45/linux/blob/master/Powershell/tp2.md) - Exercice d'installation automatique d'un serveur web Apache
+## [2](https://github.com/NatSch45/linux/blob/master/Powershell/tps/tp2.md) - Exercice d'installation automatique d'un serveur web Apache
 
 Créer un script qui va automatiquement installer et paramétrer un serveur web Apache. Le script devra pouvoir : 
 
@@ -24,7 +24,7 @@ Créer un script qui va automatiquement installer et paramétrer un serveur web 
 
 ---
 
-## [3](https://github.com/NatSch45/linux/blob/master/Powershell/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache
+## [3](https://github.com/NatSch45/linux/blob/master/Powershell/tps/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache
 
 Le script devra permettre d'automatiser la sauvegarde de l'ensemble des sites internet, ainsi que des virtualhosts et de la configuration d'apache. Cette sauvegarde devra être compressée dans un seul et même dossier.
 
@@ -32,7 +32,7 @@ Le script devra ensuite pouvoir redéployer l'ensemble des sites, Vhost & config
 
 ---
 
-## [4](https://github.com/NatSch45/linux/blob/master/Powershell/tp4.md) - Créer un annuaire téléphonique
+## [4](https://github.com/NatSch45/linux/blob/master/Powershell/tps/tp4.md) - Créer un annuaire téléphonique
 
 Le script devra permettre la gestion d'un annuaire téléphonique. Il devra inclure les fonctionnalités suivantes : 
 
@@ -48,7 +48,7 @@ L'ensemble des informations devront être enregistrées dans un fichier texte
 
 ---
 
-## [5](https://github.com/NatSch45/linux/blob/master/Powershell/tp5.md) - Créer un agenda
+## [5](https://github.com/NatSch45/linux/blob/master/Powershell/tps/tp5.md) - Créer un agenda
 
 Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes : 
 
