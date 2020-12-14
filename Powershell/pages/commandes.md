@@ -48,6 +48,10 @@ Le flag **-Path** indique dans quel dossier la commande sera effectuée.
 
 - **`clear`** : Permet de nettoyer l'interface de commande 
 
+- **`ls`** : Permet de lister les fichiers présents dans le répertoire courant. Il est possible de spécifier un chemin d'accès spécifique (Cette commande est générique à tous les langages shell).
+
+- **`cd`** : Permet de se déplacer dans le répertoire spécifié. Si aucun chemin n'est spécifié, il renvoit à la racine (Cette commande est générique à tous les langages shell). 
+
 - **`Read-Host`** : Permet de récupérer des données à rentrer dans la console. Ceci affiche ensuite la valeur en question
 
 - **`New-Item`** : Permet de créer un nouvel item (dossier, fichier...). Le flag **-Path** permet d'indiquer l'emplacement de création de l'item, **-Name** spécfie le nom de l'item, **-ItemType** indique le type de l'item (Directory ou File), **-Value** permet d'ajouter une valeur à notre fichier
