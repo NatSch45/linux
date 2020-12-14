@@ -63,6 +63,16 @@ Output :
 
 >Les listes ci-dessus sont non-exhaustives.
 
+## Commutateur (switch())
+
+Il existe une autre fonction permettant de gérer des conditions et qui peut s'avérer très utile dans certains cas. Il permet de faire une série de conditions afin de tester une seule variable. Selon sa valeur les codes exécutés diffèrent. Voici comment l'utiliser :
+
+![switch](../pictures/switch.PNG "Switch()")
+
+On peut apercevoir un cas spécial à la fin, le cas "Default". Comme son nom l'indique, c'est un cas par défaut dont le bloc de code s'exécutera lorsqu'aucune autre condition n'a été remplie.  
+Les cas s'enchaînent, c'est-à-dire qu'il est possible qu'une variable valide plusieurs conditions dans un même switch().  
+Cependant, il est possible d'arrêter le switch() après qu'une condition soit remplie en rajoutant au bloc de code "; Break".
+
 *Source : https://docs.microsoft.com/fr-fr/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.1#logical-operators*
 
 <br>
