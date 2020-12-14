@@ -56,7 +56,7 @@ Dans ce script, l'utilisateur sera supprimé en fonction de son login, qu'on dem
   <img  src="../../pictures/script_users.PNG" name="évolution des shells">
 </p>
 
->Voici une version plus complète d'un script de gestion des utilisateurs.  
+Voici une version plus complète d'un script de gestion des utilisateurs.  
 4 actions sont possibles, créer un utilisateur, modifier un utilisateur, supprimer un utilisateur et enfin afficher la liste des utilisateurs.  
 (à savoir : Je précise que lorsque le terme "utilisateurs" est employé, je parle d'utilisateurs locaux).  
 Ces actions sont déterminées à l'aide d'arguments. Comme dans n'importe quel autre langage du même type, les arguments sont des éléments inscris à la suite de l'exécution d'un fichier. Ils permettent d'instaurer simplement une connexion entre l'utilisateur et le script, notamment pour assigner des valeurs à des variables.
