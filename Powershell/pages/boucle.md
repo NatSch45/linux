@@ -54,7 +54,8 @@ Ici, la variable *$digit* prend bien toutes les valeurs, une par une, contenues 
 Il est possible d'arrêter les itérations d'une boucle à l'aide de ***Break;***. Celui-ci stoppe immédiatement la boucle, peu importe ce qu'il se trouve après (dans la boucle).  
 Il peut s'avérer très utile combiné à des conditions. Il peut permettre aussi d'améliorer la complexité d'un programme.
 
-*Source : https://www.it-connect.fr/powershell-et-les-boucles-for-loop/*
+*Sources : https://www.it-connect.fr/powershell-et-les-boucles-for-loop/*  
+*https://sodocumentation.net/fr/powershell/topic/1067/boucles*
 
 <br>
 

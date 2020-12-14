@@ -159,3 +159,5 @@
 - 2013 : Le téléphone Ubuntu est annoncé.
 - 2014 : Microsoft s'entendent bien Linux
 - 2015 : Microsoft a sa propre version de Linux.
+
+[Retour au sommaire](https://github.com/NatSch45/linux)
