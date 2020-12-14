@@ -61,6 +61,8 @@ Output :
 - **`-or`** : Renvoie true si au moins l'une des 2 expression est true, sinon false.
 - **`-xor`** : Renvoie true si une et une seule des 2 expressions est true, sinon false.
 
+Les listes ci-dessus sont non-exhaustives.
+
 <br>
 
 ---
