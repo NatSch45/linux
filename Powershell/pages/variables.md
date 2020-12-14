@@ -1,5 +1,7 @@
 # Variables
 
+Le nom d'une variable est toujours précédé d'un signe **$**.
+
 ## Les types de variables :
 
 - [string] : chaîne de caractères 
