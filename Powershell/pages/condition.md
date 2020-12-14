@@ -63,6 +63,8 @@ Output :
 
 >Les listes ci-dessus sont non-exhaustives.
 
+*Source : https://docs.microsoft.com/fr-fr/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.1#logical-operators*
+
 <br>
 
 ---
