@@ -73,7 +73,7 @@ Il est également possible de créer ses propres alias à l'aide de la commande 
 Dans ce cas, on crée un alias nommé *MonAlias* qui exécute la commande Get-help :
 `Set-Alias -Name MonAlias -Value LaCommande`  
 
-![alias_help](./pictures/alias_help.PNG "Alias \"help\"")
+![alias_help](../pictures/alias_help.PNG "Alias \"help\"")
 
 *Sources :  
 https://www.youtube.com/watch?v=Ecdl1pOMtmE  

@@ -12,7 +12,7 @@ Ce logiciel est utilisé pour la gestion de la configuration et de l'automatisai
 
 Voici l'interface graphique PowerShell, notamment reconnaissable à sa couleur de fond bleue :  
 
-![powershell](./pictures/powershell.PNG "PowerShell")
+![powershell](../pictures/powershell.PNG "PowerShell")
 
 Les commandes "sudo" en shell UNIX, permettant d'exécuter une commande en tant qu'administrateur système, peuvent ici être réglées en lançant simplement le logiciel en tant qu'administrateur.
 

@@ -16,7 +16,7 @@ Voici une liste non-exhaustive des shells disponibles :
 Voici un graphique représentant l'évolution des shells, notamment via leur héritage :
 
 <p align="center">
-  <img  src="./pictures/shells.png" name="évolution des shells">
+  <img  src="../pictures/shells.png" name="évolution des shells">
 </p>
 
 <br>
