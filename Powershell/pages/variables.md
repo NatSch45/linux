@@ -83,4 +83,4 @@ $variable = [int]0123 <=> [int]$variable = 0123
 
 source : *https://ss64.com/ps/syntax-datatypes.html*
 
-[Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
+[Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md) | [Page suivante -->](https://github.com/NatSch45/linux/blob/master/Powershell/pages/condition.md)

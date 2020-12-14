@@ -24,4 +24,4 @@ Pour ce faire, il faut configurer les sources de APT.
 
 Maintenant il faut suivre les instruction du [lien ci-joint]( https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1). Il faut se rendre au niveau de l'installation correspondant à votre système.
 
-[Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
+[Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md) | [Page suivante -->](https://github.com/NatSch45/linux/blob/master/Powershell/pages/shell.md)
