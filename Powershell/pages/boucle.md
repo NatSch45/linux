@@ -34,6 +34,26 @@ Voici un exemple concret de l'utilisation de la fonction ***while()*** :
 
 On peut facilement arriver au même résultat avec ce genre de boucle !
 
+---
+
+Un autre type de boucle s'appuie sur la lecture d'un tableau. En effet, il permet de parcourir chaque valeur du tableau. Le nombre d'itérations de la boucle correspondent au nombre d'éléments de mon tableau. De façon générique, la fonction ***ForEach()*** s'utilise comme ceci :
+
+    > ForEach($ChaqueValeurDuTableau in $LeTableau)
+    {
+        <Tant qu'on arrive pas à la dernière du tableau, la boucle continue.>
+    }
+
+Voici comment il est possible de l'utiliser :
+
+![boucle_foreach](../pictures/boucle_foreach.PNG)
+
+Ici, la variable *$digit* prend bien toutes les valeurs, une par une, contenues dans mon tableau *tab*.
+
+---
+
+Il est possible d'arrêter les itérations d'une boucle à l'aide de ***Break;***. Celui-ci stoppe immédiatement la boucle, peu importe ce qu'il se trouve après (dans la boucle).  
+Il peut s'avérer très utile combiné à des conditions. Il peut permettre aussi d'améliorer la complexité d'un programme.
+
 *Source : https://www.it-connect.fr/powershell-et-les-boucles-for-loop/*
 
 <br>
