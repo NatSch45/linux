@@ -79,4 +79,8 @@ Dans ce cas, on crée un alias nommé *MonAlias* qui exécute la commande Get-he
 https://www.youtube.com/watch?v=Ecdl1pOMtmE  
 https://docs.microsoft.com/fr-fr/powershell/*
 
+<br>
+
+---
+
 [Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
