@@ -8,7 +8,6 @@ Ce lien nous donne les commandes et ce qu'il faut télécharger pour réussir l'
 
 ### Résoudre le problème avec l'installation
 
-
 Pour ce faire, il faut configurer les sources de APT.
 
 #### Configurer les sources APT:

@@ -24,7 +24,7 @@ Créer un script qui va automatiquement installer et paramétrer un serveur web 
 
 ---
 
-## [3](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache
+## [3](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatiques de votre serveur web Apache
 
 Le script devra permettre d'automatiser la sauvegarde de l'ensemble des sites internet, ainsi que des virtualhosts et de la configuration d'apache. Cette sauvegarde devra être compressée dans un seul et même dossier.
 
