@@ -44,7 +44,7 @@ Le script devra permettre la gestion d'un annuaire téléphonique. Il devra incl
 - retrouver le nom d'un contact grâce à son téléphone
 - supprimer un contact
 
-L'ensemble des informations devront être enregistrées dans un fichier texte
+L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 ---
 
@@ -57,6 +57,6 @@ Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnali
 - modifier un évènement
 - supprimer un évènement
 
-L'ensemble des informations devront être enregistrées dans un fichier texte
+L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 [Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
