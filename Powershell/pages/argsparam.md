@@ -9,7 +9,7 @@ En revanche, les **argumets** d'une fonction correspondent eux aux valeurs réel
 
 <br>
 
-## Utilisation
+## Méthode 1 : $args
 
 Lorsque l'on exécute un fichier, il est possible de rajouter des arguments tout simplement séparés par des espaces. Ceux-ci seront forcément de type **string**.  
 
