@@ -15,6 +15,8 @@ Les fichiers de script PowerShell ont pour extension **.ps1**.
 
 ![ise_commente](../pictures/ise_commente.PNG)
 
+Tips : Un fichier non sauvegardé se verra concaténé une étoile à son nom.
+
 Il faut savoir qu'une documentation officielle plus complète peut être consultée via la barre de menus (ou via [ce lien](https://docs.microsoft.com/fr-fr/powershell/scripting/windows-powershell/ise/exploring-the-windows-powershell-ise?view=powershell-7.1
 )).
 

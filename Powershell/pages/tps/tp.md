@@ -1,6 +1,6 @@
 # TPs PowerShell
 
-## [1](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp1.md) - Scripts de gestion des comptes utilisateurs
+## [1](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp1.md) - Scripts de gestion des comptes utilisateurs <span style="color:green">(Fini)</span>
 
 Faire un script de gestion des utilisateurs, qui doit permettre : 
 
@@ -12,7 +12,7 @@ Faire un script de gestion des utilisateurs, qui doit permettre :
 
 ---
 
-## [2](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp2.md) - Exercice d'installation automatique d'un serveur web Apache
+## [2](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp2.md) - Exercice d'installation automatique d'un serveur web Apache <span style="color:orange">(En cours)</span>
 
 Créer un script qui va automatiquement installer et paramétrer un serveur web Apache. Le script devra pouvoir : 
 
@@ -24,7 +24,7 @@ Créer un script qui va automatiquement installer et paramétrer un serveur web 
 
 ---
 
-## [3](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatiques de votre serveur web Apache
+## [3](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp3.md) - Créer un script permettant de réaliser des sauvegardes automatiques de votre serveur web Apache <span style="color:red">(Vide)</span>
 
 Le script devra permettre d'automatiser la sauvegarde de l'ensemble des sites internet, ainsi que des virtualhosts et de la configuration d'apache. Cette sauvegarde devra être compressée dans un seul et même dossier.
 
@@ -32,7 +32,7 @@ Le script devra ensuite pouvoir redéployer l'ensemble des sites, Vhost & config
 
 ---
 
-## [4](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp4.md) - Créer un annuaire téléphonique
+## [4](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp4.md) - Créer un annuaire téléphonique <span style="color:red">(Vide)</span>
 
 Le script devra permettre la gestion d'un annuaire téléphonique. Il devra inclure les fonctionnalités suivantes : 
 
@@ -48,7 +48,7 @@ L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 ---
 
-## [5](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp5.md) - Créer un agenda
+## [5](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp5.md) - Créer un agenda <span style="color:green">(Fini)</span>
 
 Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes : 
 
@@ -58,5 +58,12 @@ Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnali
 - supprimer un évènement
 
 L'ensemble des informations devront être enregistrées dans un fichier texte.
+
+---
+
+
+<br>
+
+---
 
 [Retour au sommaire](https://github.com/NatSch45/linux/blob/master/Powershell/README.md)
