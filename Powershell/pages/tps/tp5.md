@@ -59,6 +59,14 @@ On peut voir qu'il est plutôt simple d'utiliser le fichier pour organiser un ag
   <img  src="../../pictures/agenda_error.PNG" name="Output de l'agenda">
 </p>
 
+### Voici une fonctionnalité ajoutée en cours de route : 
+
+<p align="center">
+  <img  src="../../pictures/agenda_modify.PNG" name="Code de l'agenda">
+</p>
+
+Il est désormais possible de modifier un évènement.
+
 <br>
 
 ---
