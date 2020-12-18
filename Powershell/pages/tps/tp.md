@@ -32,7 +32,7 @@ Le script devra ensuite pouvoir redéployer l'ensemble des sites, Vhost & config
 
 ---
 
-## [4](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp4.md) - Créer un annuaire téléphonique <span style="color:red">(Vide)</span>
+## [4](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp4.md) - Créer un annuaire téléphonique <span style="color:green">(Fini)</span>
 
 Le script devra permettre la gestion d'un annuaire téléphonique. Il devra inclure les fonctionnalités suivantes :
 
