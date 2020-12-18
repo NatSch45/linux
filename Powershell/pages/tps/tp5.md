@@ -1,8 +1,8 @@
 # TP5 - Créer un agenda
 
-## Rappel des objetifs :
+## Rappel des objetifs
 
-Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes : 
+Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes :
 
 - ajouter un évènement (date + heure + nom + durée)
 - voir la liste des évènements par ordre chronologique
@@ -13,13 +13,13 @@ L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 ---
 
-### Voici mon code pour le TP de l'agenda :
+### Voici mon code pour le TP de l'agenda
 
 <p align="center">
   <img  src="../../pictures/agenda_code.PNG" name="Code de l'agenda">
 </p>
 
-Ici, les actions principales sont gérées. 
+Ici, les actions principales sont gérées.
 
 ### Les fonctions à retenir dans ce cas-ci sont :
 
@@ -36,8 +36,9 @@ Ici, les actions principales sont gérées.
 Il est possible de récupérer le nombre de lignes d'un fichier en combinant la commande **Get-Content** et ***count***.  
 Tips : En remplaçant ***count*** par ***length***, on peut obtenir le nombre de caractères.
 
-Lorsque l'on supprime TOUT le fichier, une fenêtre de confirmation s'ouvre afin d'éviter les potentielles étourderies de l'utilisateur.  
-### Voir ci-dessous :
+Lorsque l'on supprime TOUT le fichier, une fenêtre de confirmation s'ouvre afin d'éviter les potentielles étourderies de l'utilisateur.
+
+### Voir ci-dessous
 
 <p align="center">
   <img  src="../../pictures/-confirm.PNG" name="Output de l'agenda">
@@ -45,7 +46,7 @@ Lorsque l'on supprime TOUT le fichier, une fenêtre de confirmation s'ouvre afin
 
 <br>
 
-### Voici un exemple d'utilisation du code dans la console :  
+### Voici un exemple d'utilisation du code dans la console
 
 <p align="center">
   <img  src="../../pictures/agenda_output.PNG" name="Output de l'agenda">
@@ -53,13 +54,13 @@ Lorsque l'on supprime TOUT le fichier, une fenêtre de confirmation s'ouvre afin
 
 On peut voir qu'il est plutôt simple d'utiliser le fichier pour organiser un agenda.  
 
-### Afin d'améliorer l'aisance d'utilisation du programme, les erreurs principales sont gérées comme ceci :
+### Afin d'améliorer l'aisance d'utilisation du programme, les erreurs principales sont gérées comme ceci
 
 <p align="center">
   <img  src="../../pictures/agenda_error.PNG" name="Output de l'agenda">
 </p>
 
-### Voici une fonctionnalité ajoutée en cours de route : 
+### Voici une fonctionnalité ajoutée en cours de route
 
 <p align="center">
   <img  src="../../pictures/agenda_modify.PNG" name="Code de l'agenda">

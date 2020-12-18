@@ -2,7 +2,7 @@
 
 ## [1](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp1.md) - Scripts de gestion des comptes utilisateurs <span style="color:green">(Fini)</span>
 
-Faire un script de gestion des utilisateurs, qui doit permettre : 
+Faire un script de gestion des utilisateurs, qui doit permettre :
 
 - de créer des utilisateurs
 - de modifier des utilisateurs
@@ -14,7 +14,7 @@ Faire un script de gestion des utilisateurs, qui doit permettre :
 
 ## [2](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp2.md) - Exercice d'installation automatique d'un serveur web Apache <span style="color:orange">(En cours)</span>
 
-Créer un script qui va automatiquement installer et paramétrer un serveur web Apache. Le script devra pouvoir : 
+Créer un script qui va automatiquement installer et paramétrer un serveur web Apache. Le script devra pouvoir :
 
 - installer Apache
 - permettre d'activer ou désactiver des modules apache
@@ -34,7 +34,7 @@ Le script devra ensuite pouvoir redéployer l'ensemble des sites, Vhost & config
 
 ## [4](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp4.md) - Créer un annuaire téléphonique <span style="color:red">(Vide)</span>
 
-Le script devra permettre la gestion d'un annuaire téléphonique. Il devra inclure les fonctionnalités suivantes : 
+Le script devra permettre la gestion d'un annuaire téléphonique. Il devra inclure les fonctionnalités suivantes :
 
 - ajouter un contact (nom + tel + mail)
 - modifier un contact
@@ -50,7 +50,7 @@ L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 ## [5](https://github.com/NatSch45/linux/blob/master/Powershell/pages/tps/tp5.md) - Créer un agenda <span style="color:green">(Fini)</span>
 
-Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes : 
+Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnalités suivantes :
 
 - ajouter un évènement (date + heure + nom + durée)
 - voir la liste des évènements par ordre chronologique
@@ -60,7 +60,6 @@ Le script devra permettre de gérer un agenda. Il devra inclure les fonctionnali
 L'ensemble des informations devront être enregistrées dans un fichier texte.
 
 ---
-
 
 <br>
 

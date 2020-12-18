@@ -1,6 +1,6 @@
 # TP1 - Scripts de gestion des comptes utilisateurs
 
-## Rappel des objectifs :
+## Rappel des objectifs
 
 - créer des utilisateurs
 - modifier des utilisateurs
