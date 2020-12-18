@@ -41,7 +41,7 @@ Lorsque l'on supprime TOUT le fichier, une fenêtre de confirmation s'ouvre afin
 ### Voir ci-dessous
 
 <p align="center">
-  <img  src="../../pictures/-confirm.PNG" name="Output de l'agenda">
+  <img  src="../../pictures/-confirm.PNG" name="-confirm">
 </p>
 
 <br>
@@ -57,13 +57,13 @@ On peut voir qu'il est plutôt simple d'utiliser le fichier pour organiser un ag
 ### Afin d'améliorer l'aisance d'utilisation du programme, les erreurs principales sont gérées comme ceci
 
 <p align="center">
-  <img  src="../../pictures/agenda_error.PNG" name="Output de l'agenda">
+  <img  src="../../pictures/agenda_error.PNG" name="Erreurs">
 </p>
 
 ### Voici une fonctionnalité ajoutée en cours de route
 
 <p align="center">
-  <img  src="../../pictures/agenda_modify.PNG" name="Code de l'agenda">
+  <img  src="../../pictures/agenda_modify.PNG" name="Fonction Modify">
 </p>
 
 Il est désormais possible de modifier un évènement.
